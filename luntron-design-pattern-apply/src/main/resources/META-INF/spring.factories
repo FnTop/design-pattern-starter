@@ -1,0 +1,3 @@
+org.springframework.context.ApplicationContextInitializer=com.luntron.app.initializer.DemoApplicationContextInitializer
+org.springframework.boot.BootstrapRegistryInitializer=com.luntron.app.initializer.DemoBootStrapRegistryInitializer
+#org.springframework.context.ApplicationListener=com.luntron.app.listen.DemoApplicationListener
